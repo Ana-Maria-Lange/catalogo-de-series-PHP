@@ -1,5 +1,9 @@
 # 📺 Séries+ | Catálogo de Séries em PHP
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+![Techs](https://img.shields.io/badge/Techs-PHP%20%7C%20JSON%20%7C%20CSS-777BB4)
+
+
 Um sistema de catálogo de séries desenvolvido em PHP que permite visualizar detalhes de produções famosas, buscar títulos por gênero ou ano e gerenciar um catálogo personalizado através de uma área administrativa protegida.
 
 ---
