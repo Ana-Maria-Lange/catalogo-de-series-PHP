@@ -38,7 +38,7 @@ Este projeto foi desenvolvido para ser leve e não depende de bancos de dados ex
    cd C:\xampp\htdocs
    git clone [https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git)
 
-  3. **Iniciar o Servidor:**
+  2. **Iniciar o Servidor:**
    - Abra o **XAMPP Control Panel**.
    - Clique em **Start** no módulo **Apache**.
 
