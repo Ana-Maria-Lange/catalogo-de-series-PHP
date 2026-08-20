@@ -42,7 +42,7 @@ Este projeto foi desenvolvido para ser leve e não depende de bancos de dados ex
    Abra o seu terminal (CMD, PowerShell ou Git Bash), navegue até a pasta `htdocs` do XAMPP e clone o repositório:
    ```bash
    cd C:\xampp\htdocs
-   git clone [https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git](https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git)
+   git clone https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git
    ```
 
 2. **Iniciar o Servidor:**
