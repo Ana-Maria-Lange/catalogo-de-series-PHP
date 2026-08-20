@@ -3,13 +3,14 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Techs](https://img.shields.io/badge/Techs-PHP%20%7C%20JSON%20%7C%20CSS-777BB4)
 
+Um sistema de catálogo de séries desenvolvido em PHP que permite visualizar detalhes de produções famosas, buscar títulos por gênero ou ano e gerenciar um catálogo personalizado através de uma área administrativa protegida.
+
+
 <div align="center">
   <img src="./assets/index.png" alt="Tela do Catálogo" width="48%">
   &nbsp;
   <img src="./assets/serie.png" alt="Detalhes da Série" width="48%">
 </div>
-
-Um sistema de catálogo de séries desenvolvido em PHP que permite visualizar detalhes de produções famosas, buscar títulos por gênero ou ano e gerenciar um catálogo personalizado através de uma área administrativa protegida.
 
 ---
 
@@ -41,11 +42,16 @@ Este projeto foi desenvolvido para ser leve e não depende de bancos de dados ex
    Abra o seu terminal (CMD, PowerShell ou Git Bash), navegue até a pasta `htdocs` do XAMPP e clone o repositório:
    ```bash
    cd C:\xampp\htdocs
-   git clone https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git (https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git)
+   git clone [https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git](https://github.com/Ana-Maria-Lange/catalogo-de-series-PHP.git)
+   ```
+
+2. **Iniciar o Servidor:**
+   - Abra o **XAMPP Control Panel**.
+   - Clique em **Start** no módulo **Apache**.
 
 3. **Acessar o Projeto:**
    Abra o seu navegador e acesse o endereço:
-   `http://localhost/catalogo-de-series-PHP/`
+   `http://localhost/catalogo-de-series-PHP/Catalogo-de-series/`
 
 ---
 
